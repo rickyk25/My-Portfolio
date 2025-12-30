@@ -2,7 +2,11 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Richrd Kalega, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I am Kalega Richard, a STEM educator, trainer, and curriculum developer with over nine years of experience teaching Physics and Mathematics at secondary school level and facilitating hands-on STEM and life skills learning in schools and community settings.
+
+My work focuses on learner-centred, inquiry-based, and project-based learning, where students learn by building, experimenting, reflecting, and improving. I am passionate about making science and technology accessible, practical, and meaningful for young people, especially in African contexts.
+
+I currently serve as an Education Officer and am pursuing advanced training in Curriculum and Teaching. My academic and professional interests include experiential learning, STEM pedagogy, curriculum innovation, life skills education, and Global Citizenship Education (GCE). I strongly believe that STEM education should not only build technical knowledge, but also problem-solving skills, creativity, collaboration, safety awareness, and responsible citizenship..
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -78,3 +82,5 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
   </tbody>
 </table>
+
+
