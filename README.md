@@ -32,6 +32,54 @@ I implement national and school curricula while enriching them with:
 
 I design schemes of work, lesson plans, modules, and learner activities aligned to measurable outcomes. 
 
+**✅ Learning Materials & Project Development.**
+
+I develop and document:
+- Conceptualised and experiential learning materials (CELMs)
+- Practical classroom experiments using low-cost, locally available materials
+-Student project guides and assessment rubrics
+-Learning reflections and improvement notes
+
+These materials are designed to help learners create verifiable artefacts and build confidence in STEM skills. 
+
+**✅ Learner Assessment & Documentation.**
+
+I track learner progress through:
+- Practical demonstrations and observations
+- Continuous assessment and feedback
+- Photo and video documentation of student work
+- Reflective notes on learner growth and challenges
+
+I value evidence-based teaching, where learning outcomes are visible and measurable.
+
+**✅ Life Skills, GCE & SDGs Education.**
+
+Beyond technical content, I integrate:
+- Life skills education
+- Global Citizenship Education (GCE)
+- Teaching the Sustainable Development Goals (SDGs)
+- Values of teamwork, responsibility, safety, and ethical decision-making
+
+This prepares learners not just for exams, but for life, work, and community leadership.
+
+**✅ Community Engagement & Mentorship.**
+
+I actively support:
+- Science clubs and student exhibitions
+- School and community STEM activities
+- Youth mentorship and leadership development
+- Collaborative learning environments
+
+I believe learning is strongest when schools, families, and communities are involved.
+
+**✅ Continuous Learning & Reflection.**
+
+This GitHub space also serves as:
+- A learning journal for new STEM teaching ideas
+- A repository for improving and refining resources
+- A platform for sharing best practices with fellow educators
+
+I am committed to continuous professional growth, experimentation, and improvement.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
