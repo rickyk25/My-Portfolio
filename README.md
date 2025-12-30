@@ -2,11 +2,9 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I am Kalega Richard, a STEM educator, trainer, and curriculum developer with over nine years of experience teaching Physics and Mathematics at secondary school level and facilitating hands-on STEM and life skills learning in schools and community settings.
+Hello! I am Kalega Richard, a STEM educator, trainer, and curriculum developer with over nine years of experience teaching Physics and Mathematics at secondary school level and hands-on STEM and life skills learning in schools and community settings. My work focuses on learner-centred, inquiry-based, and project-based learning, where students learn by building, experimenting, reflecting, and improving. I am passionate about making science and technology accessible, practical, and meaningful for young people.
 
-My work focuses on learner-centred, inquiry-based, and project-based learning, where students learn by building, experimenting, reflecting, and improving. I am passionate about making science and technology accessible, practical, and meaningful for young people, especially in African contexts.
-
-I currently serve as an Education Officer and am pursuing advanced training in Curriculum and Teaching. My academic and professional interests include experiential learning, STEM pedagogy, curriculum innovation, life skills education, and Global Citizenship Education (GCE). I strongly believe that STEM education should not only build technical knowledge, but also problem-solving skills, creativity, collaboration, safety awareness, and responsible citizenship..
+I advanced my secondary school STEM teaching and I am currently pursuing advanced training in Curriculum and Teaching. My academic and professional interests include experiential learning, STEM pedagogy, curriculum innovation, life skills education, and Global Citizenship Education (GCE). I strongly believe that STEM education should not only build technical knowledge, but also problem-solving skills, creativity and creative thinking, collaboration, and responsible citizenship.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -14,11 +12,25 @@ I currently serve as an Education Officer and am pursuing advanced training in C
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**✅ Hands-On STEM Teaching & Facilitation.**
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+I design and deliver practical, learner-centred STEM lessons in Physics and Mathematics using:
+- Inquiry-based learning
+- Project-based and problem-based learning
+- Real-world demonstrations and experiments
+- Scaffolded instruction for diverse learner abilities
+
+My focus is on helping learners build understanding through doing, not memorisation. 
+
+**✅ Curriculum Implementation & Instructional Design.**
+
+I implement national and school curricula while enriching them with:
+- Hands-on activities and experiments
+- Contextualised examples relevant to learners’ environments
+- Clear learning objectives and competency-based assessment
+- Safety-conscious classroom and workshop practices
+
+I design schemes of work, lesson plans, modules, and learner activities aligned to measurable outcomes. 
 
 
 <!--Section 2: List 3-4 key projects-->
