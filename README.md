@@ -10,7 +10,7 @@ I advanced my secondary school STEM teaching to a master degree and I am current
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-**✅ Hands-On STEM Teaching & Facilitation.**
+**✅ Hands-On STEM Teaching.**
 
 I design and deliver practical, learner-centred STEM lessons in Physics and Mathematics using:
 - Inquiry-based learning
@@ -22,11 +22,12 @@ My focus is on helping learners build understanding through doing, not memorisat
 
 **✅ Curriculum Implementation & Instructional Design.**
 
-I implement national and school curricula while enriching them with:
+Using the knowledge and skills gained from advanced studies, Fund Bots trainings, and other teacher trainings like SESEMAT, I implement national and school curricula while enriching them with:
 - Hands-on activities and experiments
 - Contextualised examples relevant to learners’ environments
 - Clear learning objectives and competency-based assessment
-- Safety-conscious classroom and workshop practices
+
+![image](2 anietie etuk data analytics sales project.jpg)
 
 I design schemes of work, lesson plans, modules, and learner activities aligned to measurable outcomes. 
 
