@@ -22,6 +22,7 @@ My focus is on helping learners build understanding through doing, not memorisat
 
 ![image](IMG_20251105_105130 - Copy.jpg)
 
+
 **✅ Curriculum Implementation & Instructional Design.**
 
 Using the knowledge and skills gained from advanced studies, Fund Bots trainings, and other teacher trainings like SESEMAT, I implement national and school curricula while enriching them with:
@@ -33,25 +34,19 @@ I design schemes of work, lesson plans, modules, and learner activities aligned 
 
 ![image](IMG_20251105_115920 - Copy.jpg)
 
+
 **✅ Learning Materials & Project Development.**
 
 I develop and document:
-- Conceptualised and experiential learning materials (CELMs)
+- Conceptualised and experiential learning materials
 - Practical classroom experiments using low-cost, locally available materials
--Student project guides and assessment rubrics
--Learning reflections and improvement notes
+- Student project guides and assessment rubrics
+- Learning reflections and improvement notes
 
-These materials are designed to help learners create verifiable artefacts and build confidence in STEM skills. 
+I design and develop these materials to help learners create verifiable artefacts and build confidence in STEM skills.
 
-**✅ Learner Assessment & Documentation.**
+![image](IMG_20251105_130307 - Copy.jpg)
 
-I track learner progress through:
-- Practical demonstrations and observations
-- Continuous assessment and feedback
-- Photo and video documentation of student work
-- Reflective notes on learner growth and challenges
-
-I value evidence-based teaching, where learning outcomes are visible and measurable.
 
 **✅ Life Skills, GCE & SDGs Education.**
 
@@ -63,53 +58,7 @@ Beyond technical content, I integrate:
 
 This prepares learners not just for exams, but for life, work, and community leadership.
 
-**✅ Community Engagement & Mentorship.**
-
-I actively support:
-- Science clubs and student exhibitions
-- School and community STEM activities
-- Youth mentorship and leadership development
-- Collaborative learning environments
-
-I believe learning is strongest when schools, families, and communities are involved.
-
-**✅ Continuous Learning & Reflection.**
-
-This GitHub space also serves as:
-- A learning journal for new STEM teaching ideas
-- A repository for improving and refining resources
-- A platform for sharing best practices with fellow educators
-
-I am committed to continuous professional growth, experimentation, and improvement.
-
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
-
-*A glimpse of some of the projects I've been working on.*
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+![image](IMG_20240412_174527.jpg)
 
 
 ## CONTACT DETAILS
