@@ -27,9 +27,9 @@ Using the knowledge and skills gained from advanced studies, Fund Bots trainings
 - Contextualised examples relevant to learners’ environments
 - Clear learning objectives and competency-based assessment
 
-![image](IMG_20251105_115920.jpg)
+I design schemes of work, lesson plans, modules, and learner activities aligned to measurable outcomes.
 
-I design schemes of work, lesson plans, modules, and learner activities aligned to measurable outcomes. 
+![image](IMG_20251105_115920 - Copy.jpg)
 
 **✅ Learning Materials & Project Development.**
 
