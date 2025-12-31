@@ -60,6 +60,18 @@ This prepares learners not just for exams, but for life, work, and community lea
 
 ![image](IMG_20240412_174527.jpg)
 
+## OTHER SKILLS & COMPETENCIES
+
+- Documentation of learning outcomes & portfolios
+- Leadership, collaboration & community engagement
+- Basic computer skills (MS Office, Google Workspace, Web Designing)
+
+[Sample Website Designed for an NGO](https://infosericorg.wixsite.com/seric)
+
+## CURRENT AND FUTURE PROJECTS
+
+- I am currently assigned with a task of developing a new wesite for Uganda Martyrs Pro-Life Apostolate (UMPA)
+- Using GitHub, I planning to develop teaching and learning resources repository for both teachers and learners
 
 ## CONTACT DETAILS
 
@@ -84,11 +96,7 @@ This prepares learners not just for exams, but for life, work, and community lea
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.linkedin.com/in/richardk2505/">My LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
