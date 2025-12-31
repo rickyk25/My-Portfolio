@@ -10,8 +10,6 @@ I advanced my secondary school STEM teaching to a master degree and I am current
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
 **✅ Hands-On STEM Teaching & Facilitation.**
 
 I design and deliver practical, learner-centred STEM lessons in Physics and Mathematics using:
