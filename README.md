@@ -2,9 +2,9 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I am Kalega Richard, a STEM educator, trainer, and curriculum developer with over nine years of experience teaching Physics and Mathematics at secondary school level and hands-on STEM and life skills learning in schools and community settings. My work focuses on learner-centred, inquiry-based, and project-based learning, where students learn by building, experimenting, reflecting, and improving. I am passionate about making science and technology accessible, practical, and meaningful for young people.
+Hello! I am Richard Kalega, a STEM educator and curriculum developer with over nine years of experience teaching Physics and Mathematics at secondary school level and hands-on STEM and life skills learning in schools. My work focuses on learner-centred, inquiry-based, and project-based learning, where students learn by building, experimenting, reflecting, and improving. I am passionate about making science and technology accessible, practical, and meaningful for young people.
 
-I advanced my secondary school STEM teaching and I am currently pursuing advanced training in Curriculum and Teaching. My academic and professional interests include experiential learning, STEM pedagogy, curriculum innovation, life skills education, and Global Citizenship Education (GCE). I strongly believe that STEM education should not only build technical knowledge, but also problem-solving skills, creativity and creative thinking, collaboration, and responsible citizenship.
+I advanced my secondary school STEM teaching to a master degree and I am currently pursuing advanced training in Curriculum and Teaching. My academic and professional interests include experiential learning, STEM pedagogy, curriculum innovation, and life skills education. I strongly believe that STEM education should not only build technical knowledge, but also problem-solving skills, critical and creative thinking, collaboration, and responsible citizenship.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
