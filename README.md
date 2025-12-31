@@ -63,20 +63,20 @@ This prepares learners not just for exams, but for life, work, and community lea
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s connect!*
 <table>
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:rickyk2505@gmail.com">rickyk2505@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(+256) 756299040</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>,Kampala, Uganda</td>
     </tr>
     <tr>
       <td>⬇️</td>
