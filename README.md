@@ -18,7 +18,9 @@ I design and deliver practical, learner-centred STEM lessons in Physics and Math
 - Real-world demonstrations and experiments
 - Scaffolded instruction for diverse learner abilities
 
-My focus is on helping learners build understanding through doing, not memorisation. 
+My focus is on helping learners build understanding through doing, not memorisation.
+
+![image](IMG_20251105_105130 - Copy.jpg)
 
 **✅ Curriculum Implementation & Instructional Design.**
 
