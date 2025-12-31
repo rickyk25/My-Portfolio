@@ -88,7 +88,7 @@ This prepares learners not just for exams, but for life, work, and community lea
     </tr>
     <tr>
       <td>📍</td>
-      <td>,Kampala, Uganda</td>
+      <td>Kampala, Uganda</td>
     </tr>
     <tr>
       <td>⬇️</td>
