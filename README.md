@@ -84,7 +84,7 @@ This prepares learners not just for exams, but for life, work, and community lea
     </tr>
     <tr>
       <td>📞</td>
-      <td>(+256) 756299040</td>
+      <td>(+256) 756299040/761845604</td>
     </tr>
     <tr>
       <td>📍</td>
