@@ -71,7 +71,7 @@ This prepares learners not just for exams, but for life, work, and community lea
 ## CURRENT AND FUTURE PROJECTS
 
 - I am currently assigned with a task of developing a new wesite for Uganda Martyrs Pro-Life Apostolate (UMPA)
-- Using GitHub, I planning to develop teaching and learning resources repository for both teachers and learners
+- Using GitHub, I am planning to develop teaching and learning resources repository for both teachers and learners
 
 ## CONTACT DETAILS
 
