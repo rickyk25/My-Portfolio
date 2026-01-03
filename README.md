@@ -92,7 +92,7 @@ This prepares learners not just for exams, but for life, work, and community lea
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a CV.pdf">Download my CV</a></td>
+      <td><"CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
